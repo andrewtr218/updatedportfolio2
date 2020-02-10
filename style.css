@@ -1,0 +1,38 @@
+body{
+    background-image: url("https://cdn5.f-cdn.com/contestentries/1370548/29833877/5b4f15b1ea4aa_thumb900.jpg");
+    /* height: 100%; */
+    /* background-size: 100% 100%;  */
+    background-color: gray
+}
+/* .navbar-brand{
+    background-color: teal;
+    color: white !important;
+    padding: 10px;
+    width: 100%;
+    margin: 0;
+    text-align: center;
+}
+.navbar{
+    width: 100%;
+}
+.nav-link{
+    color: lightslategray;
+}
+main{
+    margin: 10px;
+}
+.about{
+    color: teal;
+} */
+.container{
+    background: white;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    margin-bottom: 100%;
+}
+.footer{
+    margin-top: 100%;
+    background: white;
+    text-align: center;
+    border-top: 10px solid lightblue;
+}
